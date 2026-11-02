@@ -1,0 +1,11 @@
+{
+  "数据源名称": "世界银行 WDI（World Development Indicators，世界发展指标）",
+  "URL": "https://api.worldbank.org/v2/ （数据门户 https://data.worldbank.org/）",
+  "获取方式": "官方开放 API 直接下载 JSON（白名单方式：国际组织开放平台公开数据文件下载）",
+  "获取日期": "2026-11-02",
+  "授权/License": "世界银行开放数据按 CC BY 4.0 开放使用（Open Data License: CC BY 4.0）",
+  "国家数": 45,
+  "指标数": 10,
+  "主表记录数": 6750,
+  "时间序列记录数": 390
+}

@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Large data files (keep CSV/JSON, exclude SQLite binary)
+data/clean/*.db
+
+# Output documents (keep HTML, exclude docx binaries)
+docs/output/
